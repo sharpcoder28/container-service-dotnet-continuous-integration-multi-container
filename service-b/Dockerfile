@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:1.0.1-runtime
+FROM microsoft/aspnetcore-build:1.0.1
 EXPOSE 80
 
 WORKDIR /app
